@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./banner.png" width="100%"/>                                                    
+</p>
+
 <h1 align="center">Hi 👋, I'm Pallavi Sirigiri</h1>
 <h3 align="center">📊 Data Analyst | Business Analyst | AI Enthusiast</h3>
 
