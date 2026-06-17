@@ -9,7 +9,7 @@ Turning raw data into meaningful insights ✨
 
 ## 🌸 About Me
 
-🎓 Final-year B.Tech CSE student  
+🎓 B.Tech in Computer Science Engineering Graduate
 📈 Passionate about Data Analytics, Business Intelligence & AI  
 🧠 Interested in NLP, Business Strategy & Problem Solving  
 🚀 Currently looking for internships / analyst opportunities  
