@@ -94,11 +94,7 @@ End-to-end data analysis project using Python.
 
 <p align="center">
 ✨ “Data tells stories — I help uncover them.” ✨
-</p> 
-🌐 Portfolio: Coming Soon  
+</p>   
 
 ---
 
-<p align="center">
-✨ “Data tells stories — I help uncover them.” ✨
-</p>
